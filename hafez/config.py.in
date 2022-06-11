@@ -1,0 +1,17 @@
+# Hafez configuration file
+# Change name of this file to config.py then change configs for youself.
+
+# Instance name
+instance_name = ""
+
+# Database name
+db_name = ""
+
+# Database username
+db_user = ""
+
+# Database password
+db_password = ""
+
+# Database address (localhost etc.)
+db_host = ""

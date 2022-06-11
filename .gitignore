@@ -1,0 +1,5 @@
+venv
+build
+Hafez.egg-info
+**/__pycache__/
+hafez/config.py
